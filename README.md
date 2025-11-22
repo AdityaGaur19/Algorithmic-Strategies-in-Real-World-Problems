@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Algorithmic Strategies in Real-World Problem Solving  
 
 ### _A comprehensive lab project demonstrating the application of algorithmic paradigms — Greedy, Dynamic Programming, Backtracking, and Brute-Force — to real-world computational problems._
